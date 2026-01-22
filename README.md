@@ -1,20 +1,50 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img width="1200" height="475" alt="Portfolio Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# ✨ Maddie’s Portfolio Website
 
-This contains everything you need to run your app locally.
+A modern, component-driven personal portfolio built with **React + TypeScript**, designed to blend clean engineering with soft aesthetics.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1ubkjSRdHLMHrkDHeRQ3SjEUG6sPUUXc9
+This project showcases my journey, skills, projects, and experiences through a minimal yet expressive interface — where structure meets storytelling.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🛠 Tech Stack
 
+- **React**
+- **TypeScript**
+- **Vite**
+- **HTML5 & CSS3**
+- **Modern component-based architecture**
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🚀 Run Locally
+
+### Prerequisites
+- **Node.js** (LTS recommended)
+
+### Steps
+
+1. **Install dependencies**
+   ```bash
+   npm install
+   
+2. **Run the development server**
+npm run dev
+
+3. **Open browser and navigate to**
+   http://localhost:5173
+
+4. **Project structure**
+   portfolio_work/
+├── components/        # Reusable UI components
+├── services/          # External services & utilities
+├── assets/            # Images and static assets
+├── App.tsx            # Root component
+├── index.tsx          # Entry point
+├── constants.ts       # Centralized constants
+├── types.ts           # TypeScript types
+├── vite.config.ts     # Vite configuration
+
