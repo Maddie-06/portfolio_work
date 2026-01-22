@@ -1,6 +1,4 @@
-<div align="center">
-  <img width="1200" height="475" alt="Portfolio Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+
 
 # ✨ Maddie’s Portfolio Website
 
@@ -34,8 +32,7 @@ This project showcases my journey, skills, projects, and experiences through a m
 2. **Run the development server**
 npm run dev
 
-3. **Open browser and navigate to**
-   http://localhost:5173
+
 
 4. **Project structure**
    portfolio_work/
